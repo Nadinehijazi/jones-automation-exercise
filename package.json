@@ -1,0 +1,16 @@
+{
+  "name": "jones-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation exercise for Jones",
+  "main": "automation.js",
+  "scripts": {
+    "start": "node automation.js"
+  },
+  "keywords": [],
+  "author": "Nadine Hijazi",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.64.1"
+  }
+}
